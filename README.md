@@ -1,5 +1,5 @@
-Smart IR invasion detector on Arduino Yun, connected with Bluemix IoT Foundation.
+Smart IR invasion detector on Arduino Yun, connected with Bluemix IoT Foundation.<br/>
 
-Prerequisite libraries:
-1. https://github.com/z3t0/Arduino-IRremote
-2. https://github.com/knolleary/pubsubclient
+Prerequisite libraries:<br/>
+1. https://github.com/z3t0/Arduino-IRremote<br/>
+2. https://github.com/knolleary/pubsubclient<br/>
