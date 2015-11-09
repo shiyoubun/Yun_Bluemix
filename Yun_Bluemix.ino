@@ -41,10 +41,11 @@ void shining() {
   }
 }
 void setup() {
-  // put your setup code here, to run once:
-  Serial.begin(9600);
+  // initialize serial communication:
   Bridge.begin();
-  Console.begin();
+  Console.begin(); 
+  Serial.begin(9600);
+  
   pinMode(irReceiver, INPUT);
   pinMode(irLed, OUTPUT);
   pinMode(ledPin, OUTPUT);
